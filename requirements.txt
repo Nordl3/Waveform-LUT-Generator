@@ -1,3 +1,4 @@
 ipywidgets
 numpy
 matplotlib
+notebook
